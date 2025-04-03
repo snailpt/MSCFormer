@@ -7,3 +7,4 @@ We will release the source code upon the official publication of our paper:
 
 Thank you for your interest and patience!
 
+DOI: 10.1038/s41598-025-96611-5
