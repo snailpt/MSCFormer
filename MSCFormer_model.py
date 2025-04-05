@@ -1,6 +1,6 @@
 """
 The full source code will be made available upon publication of the paper.
-
+Zhao, W., Zhang, B., Zhou, H. et al. Multi-Scale Convolutional Transformer Network for Motor Imagery Brain-Computer Interface. Sci Rep 15, 96611 (2025). doi: 10.1038/s41598-025-96611-5
 @author: Wei Zhao
 """
 
