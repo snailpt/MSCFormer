@@ -7,6 +7,9 @@ Brain-computer interface (BCI) systems allow users to communicate with external 
 ## Overall Framework:
 ![architecture of CTNet](https://raw.githubusercontent.com/snailpt/MSCFormer/main/architecture.png)
 
+### Requirements & Datasets & Preprocessing:
+Such as the CTNet project: [https://github.com/snailpt/CTNet](https://github.com/snailpt/CTNet)
+
 ### Citation
 Hope this code can be useful. I would appreciate you citing us in your paper. 😊
 
