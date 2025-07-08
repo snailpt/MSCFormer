@@ -10,8 +10,8 @@ Brain-computer interface (BCI) systems allow users to communicate with external 
 ### Requirements & Datasets & Preprocessing:
 Such as the CTNet project: [https://github.com/snailpt/CTNet](https://github.com/snailpt/CTNet)
 
-### Condition:
-1. 5 Cross-validation 
+### Experimental Setup:
+1. Five-fold cross-validation was performed on the original training samples. 
 2. The training sample size of S&R data enhancement is three times that of the original training sample size.
 
 
