@@ -88,7 +88,7 @@ class PatchEmbeddingCNN(nn.Module):
         
         
     def forward(self, x: Tensor) -> Tensor:
-        b, _, _, _ = x.shape
+        b, _, _, _ = x.shape  # input shape = [batch size, feature channel 1, electrode channel (22 for 2a, 3 for 2b), sample point 1000]
         x1 = self.cnn1(x)
         x2 = self.cnn2(x)
         x3 = self.cnn3(x)
